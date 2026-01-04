@@ -29,6 +29,7 @@ This repo is designed to be practical, printable, and easy to iterate.
 
 ### Weekly
 - **Mon + Fri**: full days
+- **Tue + Thu**: medium days (volume control / quality focus)
 - **Wed**: recovery bias
 - **Sat**: active recovery
 - **Sun**: reset

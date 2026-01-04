@@ -3,6 +3,16 @@
 
 ---
 
+## 📅 Weekly defaults (quick reference)
+
+- **Monday:** Full day (100/100/100 + full plank), cold 2–3 min
+- **Tuesday:** Volume control + **wall sit** (70/70 + wall sit), cold 1–2 min
+- **Wednesday:** Recovery bias (40–50/40–50 + short wall sit), cold optional ≤1 min
+- **Thursday:** Strength quality (60 tempo/pause + 60 lunges), cold 1–2 min
+- **Friday:** Full day (100/100 + legs choice), cold 2–3 min
+- **Saturday:** Active recovery (walk + optional light), mobility longer
+- **Sunday:** Reset (walk only), mobility optional
+
 ## 🌅 Morning (4:30–6:30 AM)
 
 ### ⏰ Wake
@@ -83,6 +93,7 @@
 
 ## 📅 Weekly Rules
 - [ ] Monday & Friday = Full days
+- [ ] Tuesday & Thursday = Medium days
 - [ ] Wednesday = Recovery bias
 - [ ] Saturday = Active recovery
 - [ ] Sunday = Reset
