@@ -1,7 +1,4 @@
 # 🧠💪 Daily Performance Checklist
-**AM Build / PM Restore**
-
----
 
 ## 📅 Weekly defaults (quick reference)
 
@@ -12,6 +9,8 @@
 - **Friday:** Full day (100/100 + legs choice), cold 2–3 min
 - **Saturday:** Active recovery (walk + optional light), mobility longer
 - **Sunday:** Reset (walk only), mobility optional
+
+---
 
 ## 🌅 Morning (4:30–6:30 AM)
 
